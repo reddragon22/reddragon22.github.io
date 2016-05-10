@@ -1,2 +1,2 @@
 # reddragon22.github.io
-There is 100% a virus on this website!
+This will become some cool website, I guarantee it
