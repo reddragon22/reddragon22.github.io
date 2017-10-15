@@ -1,0 +1,21 @@
+Script started on Sun 15 Oct 2017 02:03:28 AM PDT
+]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ jekyll serve[C[K[K[K[K[K[K[K[K[K[K[K[Kbundle [K[K[K[K[K[K[Kclear
+[3;J[H[2J]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ npm install
+[?25l[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] - normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[7m   [27m[90m...............[0m] - cloneCurrentTree: [7msill[0m [35mcloneCurrentTree[0m Finishing[K[[7m      [27m[90m............[0m] \ fetchMetadata: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[K[[7m      [27m[90m............[0m] - fetchMetadata: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[K[[7m      [27m[90m............[0m] - fetchMetadata: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[K[[7m          [27m[90m........[0m] \ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[K[[7m           [27m[90m.......[0m] - preinstall:startbootstrap-freelancer: [7msill[0m [35minstall[0m runPr[K[[7m                [27m[90m..[0m] \ build:startbootstrap-freelancer: [7msill[0m [35minstall[0m runPostins[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35moptional[0m SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules/chokidar/node_modules/fsevents):
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mnotsup[0m SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+[0m]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ gulp dev
+No command 'gulp' found, did you mean:
+ Command 'gslp' from package 'ghostscript' (main)
+gulp: command not found
+]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ gulp dev
+No command 'gulp' found, did you mean:
+ Command 'gslp' from package 'ghostscript' (main)
+gulp: command not found
+]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ su[K[Kclear
+[3;J[H[2J]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ ls
+bootstrap  gulpfile.js  index.html  LICENSE  [0m[01;34mnode_modules[0m  README.md  [01;34mvendor[0m
+[01;34mcss[0m        [01;34mimg[0m          [01;34mjs[0m          [01;34mmail[0m     package.json  [01;34mscss[0m
+]0;joe@alpha_comp: ~/GitProject/reddragon22.github.iojoe@alpha_comp:~/GitProject/reddragon22.github.io$ gulp dev
+[[90m02:07:11[39m] Using gulpfile [35m~/GitProject/reddragon22.github.io/gulpfile.js[39m
+[[90m02:07:11[39m] Starting '[36mbrowserSync[39m'...
+[[90m02:07:11[39m] Finished '[36mbrowserSync[39m'
