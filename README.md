@@ -1,3 +1,7 @@
+# Hello Everyone!
+
+I'm Joe and this is going to my website for awhile. Things is still very much under construction, but I'll try to make good progress...
+
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
