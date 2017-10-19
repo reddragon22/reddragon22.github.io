@@ -4,7 +4,7 @@ I'm Joe and this is going to my website for awhile. Things is still very much UN
 
 ## The Older Website
 
-I'm the type of person who hates throwing away old code, so here is a link to my [Old Website](https://google.com/). It was my venture into pure HTML.
+I'm the type of person who hates throwing away old code, so here is a link to my [Old Website](http://xuguanzhou.com/OldResumeSite). It was my venture into pure HTML.
 It was one of my first websites at the time but, but at least you can download my resume off of the site.
 
 ## About
