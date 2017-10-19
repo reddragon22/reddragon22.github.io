@@ -1,6 +1,6 @@
 # Hello Everyone!
 
-I'm Joe and this is going to my website for awhile. Things is still very much under construction, but I'll try to make good progress...
+I'm Joe and this is going to my website for awhile. Things is still very much UNDER CONSTRUCTION, but I'll try to make good progress...
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
