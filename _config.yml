@@ -1,9 +1,9 @@
 # Site Settings
-title:              Atekihcan
-author:             Atekihcan
-email:              com.atekihcan@gmail.com
-description:        "A blog about Algorithms, Python, Image Processing, Pattern Recognition and Machine Learning, and a little bit of Android."
-keywords:           "atekihcan, python, jekyll, algorithms, machine learning, pattern recognition"
+title:              Joe's Website
+author:             Xu GuanZhou
+email:              gxu2@crimson.ua.edu
+description:        ""
+keywords:           "resume,blog,projects"
 
 # Handling Reading
 exclude:            ['README.md', 'LICENSE.md']
@@ -15,11 +15,8 @@ kramdown:
 highlighter:        pygments
 
 # Serving
-url:                "http://atekihcan.github.io"
+url:                "http://joexu22.github.io"
 baseurl:            ""
 
 # Outputting
 permalink:          /:title/
-
-# Google Analytics
-google_analytics_id: "UA-57470252-1"
