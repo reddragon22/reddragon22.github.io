@@ -1,0 +1,8 @@
+---
+layout: post
+title:  COC
+---
+
+<div style="text-align: center;">
+    <img src="{{ '/assets/img/upgrade.JPG' | prepend: site.baseurl }}" style="width: 100%; height: auto;" />
+</div>

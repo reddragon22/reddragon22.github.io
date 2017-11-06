@@ -1,2 +1,3 @@
-# reddragon22.github.io
-This will become some cool website, I guarantee it
+# Xu Guanzhou's Website
+Using bootstrap templates to do some work.
+Getting there with better website design...
