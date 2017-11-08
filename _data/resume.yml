@@ -1,14 +1,14 @@
 profile:
-    firstname:      Nachiketa
-    lastname:       Das
+    firstname:      Guanzhou "Joe"
+    lastname:       Xu
     image:          "profile.png"
-    mail:           "nachiketa.info@gmail.com"
-    phone:          "+91-9483314645"
-    place:          Bangalore
-    country:        India
-    about:          I'm a graphics driver developer by profession who spends most of his free time either developing interactive web applications or learning about new technologies. I believe in organized, detail oriented software and web designs with intuitive interfaces which results in superior user experience.
-    summary:        Summary of what I do and did
-    objective:      Objective for future
+    mail:           "gxu2@crimson.ua.com"
+    phone:          "14805705798"
+    place:          Atlanta, GA
+    country:        USA
+    about:          A lifelong student 
+    summary:        Summary...
+    objective:      Objective...
 
 skills:
     graphics:
@@ -210,7 +210,7 @@ professional_experience:
         to:         { year: 2010, month: June }
         company:    "Variable Energy Cyclotron Centre"
         place:      Kolkata
-        team:       
+        team:
         division:   Computer and Informatics
         summary:    Develop image reconstruction algorithm to enhance gamma ray spectroscopic images
         key_points:
