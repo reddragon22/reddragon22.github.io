@@ -25,11 +25,12 @@ blockquote{
     font-size: 1.2em;
 }
 
-/* navigation bar */
+/* navigation bar (starry night)*/
 .title-holder{
     display: inline-block;
     padding-top: 15px;
-    color : #002E62;
+    padding-left: 15px;
+    color : #0375B4;
     font-size: 1.8em;
     text-shadow: 2px 2px 4px rgba(150, 150, 150, 1);
 }
@@ -89,10 +90,10 @@ blockquote{
     display: block;
     background-color: #f7f7f7;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#f7f7f7), to(#e7e7e7));
-    background-image: -webkit-linear-gradient(top, #f7f7f7, #e7e7e7); 
-    background-image: -moz-linear-gradient(top, #f7f7f7, #e7e7e7); 
-    background-image: -ms-linear-gradient(top, #f7f7f7, #e7e7e7); 
-    background-image: -o-linear-gradient(top, #f7f7f7, #e7e7e7); 
+    background-image: -webkit-linear-gradient(top, #f7f7f7, #e7e7e7);
+    background-image: -moz-linear-gradient(top, #f7f7f7, #e7e7e7);
+    background-image: -ms-linear-gradient(top, #f7f7f7, #e7e7e7);
+    background-image: -o-linear-gradient(top, #f7f7f7, #e7e7e7);
     color: #aaa;
     width: 50px;
     height: 50px;
