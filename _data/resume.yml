@@ -9,8 +9,33 @@ profile:
     place           :     Atlanta, GA
     country         :     USA
 
-last_updated:       2017-12-13 22:18:20
+last_updated:     2017-12-13 22:18:20
 
 about:          A lifelong student and a curious soul; liberal in spirt, utilitarian in pratice; ready to make an real positive impact on the world. I'm a quick learner, detail oriented, and always willing to better my craft. I hope to one day make a name for myself.
+
 summary:        Summary...
+
 objective:      Objective...
+
+experience:
+
+skills:
+
+education:
+    01:
+        type:       College
+        degree:     Bachelor of Science in Computer Science
+        from:       { year: 2012, month: August }
+        to:         { year: 2018, month: August }
+        institute:  The University of Alabama
+        place:      Tuscaloosa, Alabama
+        summary:    Graduating with a bachelors in Computer Science
+
+    00:
+        type:       High School
+        degree:     High School Deploma
+        from:       { year: 2005, month: May }
+        to:         { year: 2007, month: April }
+        institute:  Chandler Preparatory Academy
+        place:      Chandler, Arizona
+        summary:    Completed high school
