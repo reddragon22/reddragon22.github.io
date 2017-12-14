@@ -15,8 +15,19 @@ kramdown:
 highlighter:        rouge
 
 # Serving
-url:                "http://joexu22.github.io"
+url:                ""
 baseurl:            ""
 
 # Outputting
 permalink:          /:title/
+
+# My social media links (URL)
+resume_social_links:
+  resume_github_url:            "insert your URL here"
+  resume_twitter_url:           "insert your URL here"
+  resume_dribbble_url:          "insert your URL here"
+  resume_facebook_url:          "insert your URL here"
+  resume_linkedin_url:          "insert your URL here"
+  resume_instagram_url:         "insert your URL here"
+  resume_website_url:           "http://xuguanzhou.io"
+resume_print_social_links:      true
