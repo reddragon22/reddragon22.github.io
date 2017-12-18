@@ -1,4 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Abel|Lato:400,700|Josefin+Sans:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 html {
     height: 100%;
@@ -7,15 +10,10 @@ html {
 body {
     min-height: 100%;
     position: relative;
-    font-family: 'Abel', 'Verdana', Helvetica, sans-serif;
+    font-family: 'Abel', Helvetica, sans-serif;
     padding: 60px 0px;
 }
 
-@media (max-width: 992px) {
-    body {
-        padding-bottom: 120px;
-    }
-}
 
 code {
     font-family: 'Courier New', Courier, monospace;
@@ -43,23 +41,8 @@ blockquote{
     padding: 0px;
 }
 
-.navbar .navbar-brand img {
-    float: left;
-    width: 50px;
-}
-
 .navbar-right li{
     font-size: 1.6em;
-}
-
-@media (max-width: 992px) {
-    #main-menu li{
-        font-size: 1.4em;
-    }
-    #main-menu li a {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
 }
 
 /* page */
@@ -111,7 +94,7 @@ blockquote{
 }
 
 .page-header{
-    margin: 10px 0;
+    margin: 25px 0;
     text-align: center;
     padding-bottom: 25px;
     font-family: 'Josefin Sans', sans-serif;
@@ -129,48 +112,6 @@ blockquote{
 
 .about-me {
     text-shadow: 2px 2px 5px #999;
-}
-
-/* project grid */
-.project-item{
-    height: 250px;
-    text-align: center;
-    margin: 20px 10px;
-    border: 2px solid #aaa;
-    border-radius: 5px;
-    box-shadow: 3px 3px 8px #333;
-}
-
-.project-title{
-    margin-top: 20px;
-    font-size: 1.2em;
-    color: #09c;
-}
-
-.project-tag{
-    color: #33b5e5;
-}
-
-.project-descr{
-    font-size: 0.9em;
-    padding-top: 5px;
-    color: #111;
-}
-
-.project-link{
-    width: 100%;
-    position: absolute;
-    bottom: 20px;
-    left: 0;
-}
-
-@media (max-width: 768px){
-    .project-item{
-        height: 200px;
-    }
-    .project-link{
-        bottom: 0px;
-    }
 }
 
 /* contact form*/

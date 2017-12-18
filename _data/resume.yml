@@ -3,6 +3,7 @@ profile:
     legal_name      :     Guanzhou
     nick_name       :     Joe
     family_name     :     Xu
+    title           :     Foolish Optimist
     image           :     "profile.png"
     mail            :     "gxu2@crimson.ua.com"
     phone           :     "480-570-5798"
@@ -28,14 +29,14 @@ education:
         from:       { year: 2012, month: August }
         to:         { year: 2018, month: August }
         institute:  The University of Alabama
-        place:      Tuscaloosa, Alabama
+        place:      { city: Tuscaloosa, state: Alabama}
         summary:    Graduating with a bachelors in Computer Science
 
     00:
         type:       High School
         degree:     High School Deploma
-        from:       { year: 2005, month: May }
-        to:         { year: 2007, month: April }
+        from:       { year: 2008, month: May }
+        to:         { year: 2012, month: April }
         institute:  Chandler Preparatory Academy
-        place:      Chandler, Arizona
+        place:      { city: Chandler, state: Arizona}
         summary:    Completed high school

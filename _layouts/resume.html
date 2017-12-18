@@ -1,24 +1,128 @@
 ---
 layout: default
 ---
+
 {% include header.html %}
-<article class="page-content">
-	<!-- nice business card like information -->
-	<div class="col-xs-12 text-center" style="font-size: 0.8em; padding: 0px 15px 30px 15px;">
-	  <div class="col-xs-12">
-		<img src="{{ '/assets/img/' | append: site.data.resume.profile.image | prepend: site.baseurl }}" style="width: 100px; border: 1px solid; border-radius: 100%; padding: 3px;" />
-	  </div>
-	  <div class="col-xs-12">
-		<i class="fa fa-globe"></i> {{ site.data.resume.profile.place }}, {{ site.data.resume.profile.country }} <i class="fa fa-globe"></i>
-	  </div>
-	  <div class="col-xs-12">
-		<i class="fa fa-phone"></i> {{ site.data.resume.profile.phone }} <i class="fa fa-flip-horizontal fa-phone"></i>
-	  </div>
-	  <div class="col-xs-12">
-		<i class="fa fa-envelope-o"></i> {{ site.data.resume.profile.mail }} <i class="fa fa-envelope-o"></i>
-	  </div>
-	  <div class="col-xs-12">
-		<i class="fa fa-calendar"></i> Last Updated : {{ site.data.resume.last_updated | date_to_string }} <i class="fa fa-calendar"></i>
-	  </div>
-	</div>
+<div class="row">
+  <div class="col-xs-12 text-center">
+    <section class="call-sign">
+      <!-- nice business card like information -->
+      <div class="col-xs-12">
+        <img src="{{ '/assets/img/' | append: site.data.resume.profile.image | prepend: site.baseurl }}" style="width: 100px; border: 1px solid; border-radius: 100%; padding: 3px;" />
+      </div>
+      <div class="col-xs-12">
+        <i class="fa fa-globe"></i> {{ site.data.resume.profile.place }}, {{ site.data.resume.profile.country }} <i class="fa fa-globe"></i>
+      </div>
+      <div class="col-xs-12">
+        <i class="fa fa-phone"></i> {{ site.data.resume.profile.phone }} <i class="fa fa-flip-horizontal fa-phone"></i>
+      </div>
+      <div class="col-xs-12">
+        <i class="fa fa-envelope-o"></i> {{ site.data.resume.profile.mail }} <i class="fa fa-envelope-o"></i>
+      </div>
+      <div class="col-xs-12">
+        <i class="fa fa-calendar"></i> Last Updated : {{ site.data.resume.last_updated | date_to_string }} <i class="fa fa-calendar"></i>
+      </div>
+    </section>
+  </div>
+</div>
+
+<article class="resume-form">
+  <div class="row">
+    <div class="col-xs-6 text-center">
+      <h1><strong>{{ site.author }}</strong></h1>
+    </div>
+    <div class="col-xs-6 text-center">
+      <div class="icon-list">
+        <h1>
+			<a href="#" class="fa fa-github"></a>
+			<a href="#" class="fa fa-linkedin"></a>
+			<a href="#" class="fa fa-twitter"></a>
+			<a href="#" class="fa fa-globe"></a>
+			<a href="#" class="fa fa-envelope-o"></a>
+		</h1></div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8 text-center">
+      <div class="page">
+        <article class="page-content">
+          <div style="text-align:center;">
+            {{ site.data.resume.about }}
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <header class="section-header">
+      <h2>Education</h2>
+    </header>
+    <h3>{{ site.data.resume.education[1].degree }} &bull; {{site.data.resume.education[1].to["year"]}}</h4>
+	<h4>{{ site.data.resume.education[1].institute }} &bull; {{site.data.resume.education[1].place["city"]}}, {{site.data.resume.education[1].place["state"]}}</h3>
+    <h5>Cumulative GPA : 3.43/4.00</h5>
+    <h5>Honers College</h5>
+    <h5>National Merit Scholar</h5>
+    <h3>{{ site.data.resume.education[0].degree }} &bull; {{site.data.resume.education[0].to["year"]}}</h4>
+	<h4>{{ site.data.resume.education[0].institute }} &bull; {{site.data.resume.education[0].place["city"]}}, {{site.data.resume.education[0].place["state"]}}</h3>
+    <h5>Cumulative GPA : 3.83/4.00</h5>
+    <h5>Graduated with Summa Cum Laude</h5>
+    <h5>National Math Honer</h5>
+    <h5>Coachers Award (football)</h5>
+  </div>
+
+  <div class="row">
+    <header class="section-header">
+      <h2>Skills</h2>
+    </header>
+    <h4>Python, C, Java, SQL, Office Suite</h4>
+    <h4>Linux/Andriod Developement Environment Expereince</h4>
+    <h4>Coursework in Andriod Applications, UX Design, Computer Security, and Microcontrollers</h4>
+    <h4>Fluent in Chinese</h4>
+    <h4>Web Surfing (*extreme research and data acquisisition)</h4>
+  </div>
+
+  <div class="row">
+    <header class="section-header">
+      <h2>Work Experience</h2>
+    </header>
+    <h3>Computer Science Co-op</h3>
+    <h4>ADTRAN, INC. at Huntsville, AL</h4>
+    </br>
+    <h3>3rd Term: Software Developement Engineer, Summer 2016</h3>
+    <h5>Developed cloud-based software platforming (e.g. Adtran Mosaic Microservice)</h5>
+    <h5>Evaluated design solutions with team – modeling, trade-off analysis, prioritization, etc.</h5>
+    <h5>Directed meetings advocating design solutions</h5>
+    <h5>Pushed code now operating in the field (allegedly serving millions)</h5>
+
+    <h3>2nd Term: Embedded Software Engineer - Virtualization, Fall 2015</h3>
+    <h5>Coded/Tested software associated with virtualization of optical/networking technologies</h5>
+    <h5>Worked with packaging and code generation software</h5>
+    <h5>Maintained and refactored large, legacy code bases</h5>
+    <h5>Modeled code using IETF (corporate regulatory) standards</h5>
+
+    <h3>1st Term: Design Verification Test (DVT) Engineer, Spring 2015</h3>
+    <h5>Participated in Agile work flow within a real professional environment</h5>
+    <h5>Troubleshot and maintained network equipment test-beds</h5>
+    <h5>Performed extensive unit-testing using industry level software (Selenium, Robot Framework, Pytest)</h5>
+    <h5>Conducted independent research and development of utility web-scraping software</h5>
+  </div>
+
+  <div class="row">
+    <header class="section-header">
+      <h2>Activities</h2>
+    </header>
+    <h3>Animal Shelter Volunteer</h3>
+    <h3>Stage Technician</h3>
+  </div>
+
+  <div class="row">
+    <header class="section-header">
+      <h2>Hobbies</h2>
+    </header>
+    <h3>NPR radio</h3>
+    <h3>Strategy Card Games (Hearthstone, MTG, etc.)</h3>
+    <h3>Online Moba Games (League of Legends, DOTA2, etc.)</h3>
+  </div>
 </article>
