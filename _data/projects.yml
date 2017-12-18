@@ -1,19 +1,26 @@
 project_list:
-    test_project_1:
-        url:    "/portfolio/"
-        title:  ""
-        tag:    ""
-        icon:   ""
-        descr:  ""
-    test_project_2:
-        url:    "/portfolio/"
-        title:  ""
-        tag:    ""
-        icon:   ""
-        descr:  ""
-    test_project_3:
-        url:    "/portfolio/"
-        title:  ""
-        tag:    ""
-        icon:   ""
-        descr:  ""
+    personal_website:
+        url:    "/"
+        title:  My Website
+        tag:    Bootstrap | Javascript
+        descr:  This website is my foray into front end web development.
+    flavortown_app:
+        url:    "https://flavortownproject.github.io/FlavorTownDocumentation/"
+        title:  Flavortown Food Rating App
+        tag:    Android | Firebase | Project Management
+        descr:  An Android app made for my CS senior project.
+    news_summary_app:
+        url:    "https://github.com/Myriad-CS407/Myriad"
+        title:  News Summary App
+        tag:    UX | Heroku
+        descr:  News summary app with a focus on User Experience.
+    bama_web_scraper:
+        url:    "https://github.com/joexu22/BamaWebScraper"
+        title:  Bama Web Scraper
+        tag:    Selenium | BeautifulSoup
+        descr:  Web Scraping script to automate scraping of web data.
+    love_letter:
+        url:    "/404"
+        title:  Love Letters
+        tag:    Chronjob | Twilio
+        descr:  An automated SMS program.
