@@ -4,7 +4,7 @@ This website allows me to get better at designing websites
 
 # Hosting
 This website is now hosted on a digital ocean droplet
-Doing some git testing #3
+Making real progress with git hooks
 
 # About
 This site should contain
