@@ -2,6 +2,9 @@
 A Jekyll/Bootstrap themed personal website
 This website allows me to get better at designing websites
 
+# Hosting
+This website is now hosted on a digital ocean droplet
+
 # About
 This site should contain
 * My resume
