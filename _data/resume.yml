@@ -10,9 +10,13 @@ profile:
     place           :     Atlanta, GA
     country         :     USA
 
-last_updated:     2017-12-13 22:18:20
+last_updated        :     2018-01-16 17:00:00 # Jekyll wants this format
 
-about:          A lifelong student and a curious soul; liberal in spirt, utilitarian in pratice; ready to make an real positive impact on the world. I'm a quick learner, detail oriented, and always willing to better my craft. I hope to one day make a name for myself.
+personal_statement  :     Hello, my name is 徐冠舟, but you can call me Joe! A Computer Science professional who studied @ The University of Alabama; on the cusp of professional career; inquisitive, laidback, but driven. Thoughtful of the past, feeling in the moment, and foolishly optimistic about the future.
+
+tagline             :     "*Heart of a Rebel, Soul of a Tool - (╯°□°）╯︵ ┻━┻ / ┬──┬◡ﾉ(° -°ﾉ)"
+
+about               :     Born in the far East (China), raised in the Southwest (Phoeix), studied in the deep South (Alabama) - A lifelong student and a curious soul. Liberal in spirt, utilitarian in pratice; ready to make an real positive impact on the world. A quick learner, detail oriented, and always willing to better my craft. Hope to make a name for myself.
 
 summary:        Summary...
 
