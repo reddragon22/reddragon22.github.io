@@ -2,25 +2,25 @@ project_list:
     personal_website:
         url:    "/"
         title:  My Website
-        tag:    Bootstrap | Javascript
-        descr:  This website is my foray into front end web development.
+        tag:    Bootstrap | Jekyll | LAMP
+        descr:  This website is my foray into front end web development. Orginally a github.io page, is now in the process of being ported to a LAMP project (Hosted on a digital ocean droplet).
     flavortown_app:
         url:    "https://flavortownproject.github.io/FlavorTownDocumentation/"
         title:  Flavortown Food Rating App
         tag:    Android | Firebase | Project Management
-        descr:  An Android app made for my CS senior project.
+        descr:  An Android app made for my CS senior project. I would like to brag that this project (Fall 2016) is dated before Google Guides (Spring 2017).
+    bama_web_scraper:
+        url:    "https://github.com/joexu22/BamaWebScraper"
+        title:  Bama Web Scraper
+        tag:    Selenium | BeautifulSoup
+        descr:  Web Scraping script to automate scraping of web data. Automated Data Scraping tools. Uses some retrofited automation techniques from my time as a DVT engineer.
+    love_letter:
+        url:    "/404"
+        title:  Love Letters
+        tag:    Chronjob | Twilio
+        descr:  An automated SMS program. Generates Automated Text Messages for a girl I used to like. Need to seperate my Twilio keycodes, phone numbers, and private info ;) from the project before the code is make public.
     news_summary_app:
         url:    "https://github.com/Myriad-CS407/Myriad"
         title:  News Summary App
         tag:    UX | Heroku
         descr:  News summary app with a focus on User Experience.
-    bama_web_scraper:
-        url:    "https://github.com/joexu22/BamaWebScraper"
-        title:  Bama Web Scraper
-        tag:    Selenium | BeautifulSoup
-        descr:  Web Scraping script to automate scraping of web data.
-    love_letter:
-        url:    "/404"
-        title:  Love Letters
-        tag:    Chronjob | Twilio
-        descr:  An automated SMS program.
