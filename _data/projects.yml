@@ -3,7 +3,7 @@ project_list:
         url:    "/"
         title:  My Website
         tag:    Bootstrap | Jekyll | LAMP
-        descr:  This website is my foray into front end web development. Orginally a github.io page, is now in the process of being ported to a LAMP project (Hosted on a digital ocean droplet).
+        descr:  This current website is my foray into front-end web development. Orginally a static github.io page, is now mirrored on my digital ocean droplet as a "LAMP" project (138.68.255.148).
     flavortown_app:
         url:    "https://flavortownproject.github.io/FlavorTownDocumentation/"
         title:  Flavortown Food Rating App
