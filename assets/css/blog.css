@@ -1,0 +1,23 @@
+/* Blog Titles */
+.blog-header{
+    margin: 25px 0;
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: 'Fantasque Sans Mono'
+}
+
+.blog-header h1{
+    margin: 0;
+    font-size: 4.0em;
+}
+
+.blog-header h2{
+    margin: 0;
+    font-size: 3.0em;
+}
+
+.blog-content{
+    font-size: 1.2em;
+    text-align: justify;
+    font-family: 'Fantasque Sans Mono'
+}
