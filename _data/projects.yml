@@ -24,3 +24,8 @@ project_list:
         title:  News Summary App
         tag:    UX | Heroku
         descr:  News summary app with a focus on User Experience.
+	tensor_flow_project:
+		url:
+		title:
+		tag:
+		descr:

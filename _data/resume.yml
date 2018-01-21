@@ -34,7 +34,7 @@ education:
         to:         { year: 2018, month: August }
         institute:  The University of Alabama
         place:      { city: Tuscaloosa, state: Alabama}
-        summary:    Graduating with a bachelors in Computer Science
+        summary:    Bachelors in Computer Science
 
     00:
         type:       High School
@@ -43,4 +43,4 @@ education:
         to:         { year: 2012, month: April }
         institute:  Chandler Preparatory Academy
         place:      { city: Chandler, state: Arizona}
-        summary:    Completed high school
+        summary:    Completed high school Summa Cum Laude
