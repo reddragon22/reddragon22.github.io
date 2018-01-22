@@ -1,21 +1,30 @@
 # Xu Guanzhou's Website
-A personal website that has allowed me to sharpen my "full stack" capabilities.
-Website uses Jekyll on the frontend and LAMP on the backend.
-More features to come, as long as I have to time.
+A personal website that has allowed me to sharpen my "Full Stack" capabilities
+This website showcases a large extent of my coding/design/engineering capabilites
+Built with an rotation class of various technologies I've come across and wish to try
+More Feature surely to come...
 
 # Front End
-The design of this website uses Jekyll/Bootstrap on the front.
-Most of the webdesign is handcrafted with html and css.
-The style is credited to someone else.
+I use Jekyll to generate the blog posts
+I do "handcraft" my own templates using CSS, HTML5, and Bootstrap
+I credit the artistic inspiration to a fellow computer scientist
 
 # Hosting/Backend
-This website is now hosted on a digital ocean droplet - LAMP backend.
-(used to be a github page; maybe will migrate to amazon S3)
-Uses "git hooks" to sync everything.
+This website is now hosted on a Digital Ocean droplet - modeled off of LAMP software architechture
+Originally hosted as an github.io page
+Potentially will migrate over to Amazons/Google's Cloud contingent upon pricing
+	Thinking about using wraping the whole thing on top of an DOCKER
+	The site is currently small enough to function on top of any server anyways
+
+# Git Hook Methology
+Automatically Depoly the website after pushed
+Need SSH access to deploy@138.68.255.148
+	git remote add deploy deploy@138.68.255.148:~/auto_deploy.git
+It's as simple as pushing to deploy at this point
 
 # About
-This site should contain:
+This website contains the following:
 * My resume
-* Some samples of my portfolio
-* My blog containing my thoughts
+* A list of my portfolio
+* A blog contianing my thoughts
 * A way to contact me
