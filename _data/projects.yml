@@ -25,7 +25,7 @@ project_list:
         tag:    UX | Heroku
         descr:  News summary app with a focus on User Experience.
 	tensor_flow_project:
-		url:
-		title:
-		tag:
-		descr:
+		url:	"/404"
+		title:	Machine Learning
+		tag:	TensorFlow | CUDA
+		descr:	Trying to get some machine learning done (specifically Style - Transfer)
