@@ -1,19 +1,19 @@
 project_list:
     personal_website:
-        url:    "/"
+        url:    "https://github.com/joexu22/joexu22.github.io"
         title:  My Website
         tag:    Bootstrap | Jekyll | LAMP
-        descr:  This current website is my foray into front-end web development. Orginally a static github.io page, is now mirrored on my digital ocean droplet as a "LAMP" project (138.68.255.148).
+        descr:  This website is my foray into web development. Orginally a static github.io page, it is now hosted on my Digital Ocean droplet as a "LAMP" project (138.68.255.148).
     flavortown_app:
         url:    "https://flavortownproject.github.io/FlavorTownDocumentation/"
         title:  Flavortown Food Rating App
         tag:    Android | Firebase | Project Management
-        descr:  An Android app made for my CS senior project. It is an location based restaurant rating app. I would like to brag that this project (Fall 2016) is dated before Google Guides (Spring 2017).
+        descr:  Android app made for my CS senior project. A location based restaurant rating app. This project is dated (Fall 2016) before Google Guides (Spring 2017).
     bama_web_scraper:
         url:    "https://github.com/joexu22/BamaWebScraper"
         title:  Bama Web Scraper
         tag:    Selenium | BeautifulSoup
-        descr:  Web Scraping script to automate scraping of web data. Automated data scraping method. Uses some retrofited automation techniques from my time as a DVT engineer.
+        descr:  Web Scraping script; automates data scraping of particular a web domain. Uses some retrofited automation techniques from my time as a DVT engineer.
     love_letter:
         url:    "/404"
         title:  Love Letters
@@ -25,7 +25,7 @@ project_list:
         tag:    UX | Heroku
         descr:  News summary app with a focus on User Experience.
     tensor_flow_project:
-        url:	"/404"
+        url:	"https://github.com/joexu22/MachineLearningPractice"
         title:	Machine Learning
         tag:	TensorFlow | CUDA
-        descr:	Trying to get some machine learning done (specifically Style - Transfer)
+        descr:	My Machine Learning Repo
