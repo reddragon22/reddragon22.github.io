@@ -1,40 +1,42 @@
 ---
 layout: default
 ---
-
 {% include header.html %}
 <div class="row">
-  <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
-    <div class="page">
-      <header class="blog-header">
-        <h1 class="blog-title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-        <h2 class="blog-subtitle">{{ page.subtitle }}</h2>
-        {% endif %}
-      </header>
-
-      <!--
-      Really Need to Make A List Here
-      Need to Figure Out How Posts Acutally Works
-      Need to DO something
-      This At Least Gets Me Thinking About The Blog
-
-      Need To Design:
-        A ul class
-        A li class
-        A post-meta class
-        A post-link class
-      -->
-      <ul class="post-list">
-        <li>
-          <span class="post-meta">Dec 31, 2017</span>
-          <h2>
-          <a class="post-link" href="{{ " /open-letter/ " | prepend: site.baseurl }}"> Open Letter To Myself! </a>
-          </h2>
-        </li>
-      </ul>
-
-
+    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+        <div class="page">
+            <header class="blog-header">
+                <h1 class="blog-title">{{ page.title }}</h1>
+                {% if page.subtitle %}
+                <h2 class="blog-subtitle">{{ page.subtitle }}</h2>
+                {% endif %}
+            </header>
+            <!--
+                I should figure out how to automatically generate this list by looping over my blog entries
+                Still comfused about the nature of how Jekyll compiles the code
+                Write Some Meaning Articles... Essentially to Remind Myself Of The Things I've Done
+                I suppose I can make a list basied on the Really Need to Make A List Here
+                
+                Need To Design:
+                  A ul class
+                  A li class
+                -->
+            <div class="blog-post" style="display:block" onclick="location.href='/open-letter'" style="cursor: pointer">
+                <div class="blog-thumb"> 
+                    <a href="/"><img width="200px;" src="/assets/img/goals.png"></a>
+                </div>
+                <div class="blog-content">
+                    <div class="blog-article">
+                        <h3> 
+                            Open Letter!
+                        </h3>
+                    </div>
+                    <div class="blog-meta">Dec 31, 2017 | Goals</div>
+                    <div class="project_excerpt"> 				
+                        <b> My New Years Resolution and Master Plan.</b>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
