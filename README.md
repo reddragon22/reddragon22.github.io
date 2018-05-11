@@ -19,7 +19,7 @@
 # Git Hook Methology
 * Automatically Depoly the website after pushed
 * Need SSH access to deploy@138.68.255.148
-* git remote add deploy deploy@138.68.255.148:~/auto_deploy.git
+* git remote add deploy root@138.68.255.148:~/websiterepo.git
 * Makes deploying the website much more simple
 
 # About
