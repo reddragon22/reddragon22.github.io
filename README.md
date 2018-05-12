@@ -17,10 +17,10 @@
   * The site is currently small enough to function on top of any server anyways
 
 # Git Hook Methology
-* Automatically Depoly the website after pushed
-* Need SSH access to deploy@138.68.255.148
-* git remote add deploy root@138.68.255.148:~/websiterepo.git
-* Makes deploying the website much more simple
+* Enables the deployment and editing of this website from any remote internet connection
+* Authorize SSH key on 138.68.255.148 server
+* git remote add deploy root@138.68.255.148:~/websiterepo.git (githook)
+* Automatic deployment of changes
 
 # About
 This website contains the following:
