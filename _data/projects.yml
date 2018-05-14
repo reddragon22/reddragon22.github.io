@@ -9,11 +9,11 @@ project_list:
         title:	Machine Learning
         tag:	TensorFlow | CUDA
         descr:	My Machine Learning Repo. Messing around with some style transfer.
-	8bit_joe:
-		url:	"/404"
-		title:	8Bit Video Game
-		tag:	Pygame
-		descr:  A somewhat trivial video game.
+    8bit_joe:
+        url:	"/404"
+	title:	8Bit Video Game
+	tag:	Pygame
+	descr:  A somewhat trivial video game.
     flavortown_app:
         url:    "https://flavortownproject.github.io/FlavorTownDocumentation/"
         title:  Flavortown Food Rating App
