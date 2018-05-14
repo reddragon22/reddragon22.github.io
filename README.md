@@ -25,6 +25,6 @@
 # About
 This website contains the following:
 * My resume
-* A list of my portfolio
-* A blog contianing my thoughts
+* A portfolio detailing some projects
+* A blog containing my thoughts
 * A way to contact me
