@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Joe's Open Letter
-subtitle: A New Years Resolution & My Current Life Goals
+title: A Look Back
+subtitle: A New New Years Resolution & My Current Life Goals
 date:   2017-12-31 23:59:59 -0500
 categories: Goals
 ---
