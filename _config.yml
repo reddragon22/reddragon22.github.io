@@ -3,7 +3,7 @@ title:              Joe's Website
 author:             Xu GuanZhou - "Joe"
 email:              gxu2@crimson.ua.edu
 description:        "One stop shop to know the man known as Joe"
-keywords:           "resume,profolio,blog,contact"
+keywords:           "resume,portfolio,blog,contact"
 
 # Handling Reading
 exclude:            ['README.md', 'LICENSE.md']
