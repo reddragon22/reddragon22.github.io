@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Look Back
-subtitle: A New New Years Resolution & A Look Back On My Progress
-date:   2020-12-31 23:59:59 -0500
+title: Looking Back
+subtitle: A New New Years Resolution & A Look Back
+date:   2020-12-28 23:59:59 -0500
 categories: Goals
 ---
 **Goals: For the Future**
