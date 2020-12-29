@@ -22,7 +22,9 @@
 # Git Hook Methodology
 * This needs to be re-enabled after the EC2 migration
   * Need to be able to deploy and edit this website from any remote internet location
-  * Current EC2 IP is 172.31.95.201
+  * Connection
+    * Public: 3.82.170.186
+	* Private: 172.31.95.201
   * Needs to be incorporated into a CICD pipeline
 
 # About
