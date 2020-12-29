@@ -1,26 +1,29 @@
 # Xu Guanzhou's Website
 * A personal website that has allowed me to sharpen my "Full Stack" capabilities
-* This website showcases a large extent of my coding/design/engineering capabilites
-* Built with an rotation class of various technologies I've come across and wish to try
-* More Feature surely to come...
+* This website showcases some of my coding/design/engineering capabilities
+* Built with an rotation of various technologies I've come across and will wish to try
+* More feature surely to come...
 
 # Front End
 * I use Jekyll to generate the blog posts
-* I do "handcraft" my own templates using CSS, HTML5, and Bootstrap
+* I "handcraft" my own templates using CSS, HTML5, and Bootstrap
+  * Thinking about rewriting the entire application in React
 * I credit the artistic inspiration to a fellow computer scientist
 
 # Hosting/Backend
-* This website is now hosted on a Digital Ocean droplet - modeled off of LAMP software architechture
-* Originally hosted as an github.io page
-* Potentially will migrate over to Amazons/Google's Cloud contingent upon pricing
-  * Thinking about using wraping the whole thing on top of an DOCKER
-  * The site is currently small enough to function on top of any server anyways
+* This website is now hosted on an Amazon EC2 Container - modeled off of LAMP software architecture
+* Originally hosted as a github.io page
+* Potentially will migrate this onto a Amazon S3
+  * Thinking about wrapping the whole application into a deployable DOCKER cluster
+* HTTPD
+  * /sbin/service httpd start
+  * /sbin/service httpd stop
 
-# Git Hook Methology
-* Enables the deployment and editing of this website from any remote internet connection
-* Authorize SSH key on 138.68.255.148 server
-* git remote add deploy root@138.68.255.148:~/websiterepo.git (githook)
-* Automatic deployment of changes
+# Git Hook Methodology
+* This needs to be re-enabled after the EC2 migration
+  * Need to be able to deploy and edit this website from any remote internet location
+  * Current EC2 IP is 172.31.95.201
+  * Needs to be incorporated into a CICD pipeline
 
 # About
 This website contains the following:

@@ -8,5 +8,7 @@ categories: Goals
 **Goals: For the Future**
 
 I'm 26 going 27.
+
 I got 3 more years of my 20s left.
+
 I doubt that I have anything figured out yet, but I can list some minor accomplishments here.
