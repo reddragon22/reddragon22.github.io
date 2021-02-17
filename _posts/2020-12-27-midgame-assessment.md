@@ -14,3 +14,7 @@ I got 3 more years of my 20s left.
 I doubt that I have anything figured out yet, but I can list some minor accomplishments here.
 
 Learning about the world is constant, I am enjoy it, let make the world a better place.
+
+git@github.com:joexu22/FraudCoinX.git
+
+My coauthor's page is https://doodles.google.com/d4g/
