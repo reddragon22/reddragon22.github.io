@@ -3,7 +3,7 @@ project_list:
         url:    "https://github.com/joexu22/joexu22.github.io"
         title:  My Website
         tag:    Bootstrap | Jekyll | LAMP
-        descr:  This website is my foray into web development. Orginally a static github.io page, it is now hosted on my Digital Ocean droplet as a "LAMP" project (138.68.255.148).
+        descr:  This website is my foray into web development. Originally a static github.io page, it is now hosted on AWS as a "LAMP" project (172.31.95.201).
     tensor_flow_project:
         url:	"https://github.com/joexu22/MachineLearningPractice"
         title:	Machine Learning
@@ -23,9 +23,9 @@ project_list:
         url:    "https://github.com/joexu22/BamaWebScraper"
         title:  Bama Web Scraper
         tag:    Selenium | BeautifulSoup
-        descr:  Web Scraping script; automates data scraping of a particular web domain. Uses some retrofited automation techniques from my time as a DVT engineer.
+        descr:  Web Scraping script; automates data scraping of a particular web domain. Uses some retrofitted automation techniques from my time as a DVT engineer.
     love_letter:
         url:    "/404"
         title:  Love Letters
         tag:    Chronjob | Twilio
-        descr:  An automated SMS program. Generates Automated Text Messages for a girl I used to like. Need to seperate my Twilio keycodes, phone numbers, and private info ;) from the project before the code is make public.
+        descr:  An automated SMS program. Generates Automated Text Messages for a girl I used to like. Need to separate my Twilio keycodes, phone numbers, and private info ;) from the project before the code is make public.
