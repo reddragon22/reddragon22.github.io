@@ -43,3 +43,10 @@
   font-weight: bold;
   padding-left: .5em;
 }
+
+/* no print */
+@media print {
+    a[href]:after {
+      content: none !important;
+    }
+  }
