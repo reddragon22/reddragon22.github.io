@@ -9,6 +9,13 @@
 
 /* social media icons */
 
+
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
 .icon-list {
     text-align: center;
     display: inline;
@@ -51,11 +58,3 @@
     padding-left: .5em;
 }
 
-
-/* no print */
-
-@media print {
-    a[href]:after {
-        content: none !important;
-    }
-}

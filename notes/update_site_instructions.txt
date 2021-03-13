@@ -1,4 +1,7 @@
 git pull
+
 jekyll build -d testFolder/
 cp -r ./testFolder/. ../../../../var/www/html/
-
+ - OR -
+jekyll build
+cp -r ./_site/. ../../../../var/www/html/
